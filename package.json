@@ -1,0 +1,24 @@
+{
+  "name": "git_branch_manage",
+  "version": "1.0.0",
+  "description": "git分支管理脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascript-ming/git_branch_manage.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "manage"
+  ],
+  "author": "xiaomingming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javascript-ming/git_branch_manage/issues"
+  },
+  "homepage": "https://github.com/javascript-ming/git_branch_manage#readme"
+}
