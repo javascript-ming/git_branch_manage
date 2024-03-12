@@ -3,7 +3,7 @@
  * @Date         : 2024-01-29 11:08:36
  * @LastEditTime : 2024-01-30 18:12:40
  * @LastEditors  : xiaomingming
- * @Description  : node脚本：git分支管理。注意npm i -D prompts
+ * @Description  : node脚本：git分支管理。注意npm i -D prompts cli-spinners chalk
  * @FilePath     : \git_branch_manage\git_branch_crud_node.js
  */
 const util = require('util');
